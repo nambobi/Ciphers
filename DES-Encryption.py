@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------
-# DES (Data Encryption Standard) – ECB mode implementation from scratch, no structured programming
+# DES (Data Encryption Standard) – ECB mode implementation from scratch
 # By Nambobi Mutwalibi, MSc, BSc
 # This code implements the DES algorithm in Electronic Codebook (ECB) mode.
 # It includes key scheduling, encryption, and decryption processes.ABC25156009EFABC
